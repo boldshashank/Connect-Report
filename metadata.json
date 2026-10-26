@@ -1,0 +1,6 @@
+{
+  "name": "Tally Insight Cloud",
+  "description": "Multi-tenant cloud accounting dashboard and live sync gateway for Tally ERP & Prime with GST sales, purchase, and ledger registers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
